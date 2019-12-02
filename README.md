@@ -16,6 +16,7 @@
 ![](https://github.com/havenow/PIC-/blob/master/pic/pspax%E5%B7%A5%E5%85%B7.png)
 
 查看那个函数有重定向问题，但是好像无法定位代码行数     
+下面的命令是在Mac下面执行的     
 /Users/wangf/Downloads/pax-utils-1.2.2/scanelf -qT /Users/wangf/Downloads/libmd.so 
 
 - # https://wiki.gentoo.org/wiki/Hardened/Textrels_Guide#Introduction
